@@ -4,7 +4,7 @@
 I'm a passionate computer science student at UBB who loves coding and learning new technologies. I enjoy building fun and cool projects, but mostly once that help me learn new stuff.
 
 ## 🛠 Tech Stack
-- 💻 Languages: Python, C++, Java
+- 💻 Languages: Python, C, C++, Java, Assembly, SQL
 - 🌐 Frontend: HTML, CSS
 - 🎨 Graphics: OpenGL, SFML
 - 🗄️ Databases: SQLite
@@ -13,7 +13,7 @@ I'm a passionate computer science student at UBB who loves coding and learning n
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SebiB24&show_icons=true&theme=radical)
 
 ## 📫 Get in Touch
-- LinkedIn: [Your LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/sebi-b-a38127330/?trk=public_profile-settings_edit-profile-content&originalSubdomain=ro))
+- LinkedIn: ![Your LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/sebi-b-a38127330/?trk=public_profile-settings_edit-profile-content&originalSubdomain=ro))
 - Email: sebiiiii.45@gmail.com
   
 _Thanks for stopping by! 🚀_
