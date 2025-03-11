@@ -16,7 +16,7 @@ I'm a passionate computer science student at UBB who loves coding and learning n
 
 ## 📫 Get in Touch
 - LinkedIn: [My LinkedIn](https://linkedin.com/in/sebi-b-a38127330)
-- Email: sebiiiii.45@gmail.com
+- Email: sebastianbuda2409@gmail.com
   
 _Thanks for stopping by! 🚀_
 
