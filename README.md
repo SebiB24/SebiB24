@@ -11,8 +11,10 @@ I'm a passionate computer science student at UBB who loves coding and learning n
 - 🎨 Graphics: OpenGL, SFML
 - 🗄️ Databases: SQLite
 
+<!--
 ## 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SebiB24&show_icons=true&theme=radical)
+-->
 
 ## 📫 Get in Touch
 - LinkedIn: [My LinkedIn](https://linkedin.com/in/sebi-b-a38127330)
