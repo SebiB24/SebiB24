@@ -8,7 +8,7 @@ I'm a passionate computer science student at UBB who loves coding and learning n
 ## 🛠 Tech Stack
 - 💻 Languages: Python, C, C++, C#, Java, Assembly, SQL
 - 🌐 Frontend: HTML, CSS
-- 🎨 Graphics: OpenGL, SFML
+- 🎨 Graphics: OpenGL
 - 🗄️ Databases: SQLite
 
 <!--
