@@ -4,6 +4,7 @@
 I'm a passionate computer science student at UBB who loves coding and learning new technologies. I enjoy building fun and cool projects, but mostly onen that help me learn new stuff.
 - Check out one of my Java projects: [Magazin Electronice](https://github.com/SebiB24/a4-SebiB24)
 - Check out one of my current projects: [2D Game Engine](https://github.com/SebiB24/2DGE)
+- Check out one of my fun JS projects: [FlappyBird-browser-game](https://sebib24.github.io/FlappyBird-browser-game/)
 
 ## 🛠 Tech Stack
 - 💻 Languages: Python, C, C++, C#, Java, Assembly, SQL
