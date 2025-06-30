@@ -10,7 +10,7 @@ I'm a passionate computer science student at UBB who loves coding and learning n
 - 💻 Languages: Python, C, C++, C#, Java, Assembly, SQL
 - 🌐 Frontend: HTML, CSS, JS
 - 🎨 Graphics: OpenGL
-- 🗄️ Databases: SQLite
+- 🗄️ Databases: SQLite, MySQL
 
 <!--
 ## 📈 GitHub Stats
