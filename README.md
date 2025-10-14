@@ -7,10 +7,12 @@ I'm a passionate computer science student at UBB who loves coding and learning n
 - Check out one of my fun JS projects: [FlappyBird-browser-game](https://sebib24.github.io/FlappyBird-browser-game/)
 
 ## 🛠 Tech Stack
-- 💻 Languages: Python, C, C++, C#, Java, Assembly, SQL
-- 🌐 Frontend: HTML, CSS, JS
-- 🎨 Graphics: OpenGL
-- 🗄️ Databases: SQLite, MySQL
+- 💻 Languages: Python, C, C++, C#, Java, Assembly, SQL, HTML, CSS, JS, TS
+- 🔙 Backend: Spring Boot
+- 🌐 Frontend: Angular
+- 🗄️ Databases: SQLite, MySQL, postgreSQL
+- 🧪 Testing: Playwright
+- 🎮 GameEngines: Godot
 
 <!--
 ## 📈 GitHub Stats
