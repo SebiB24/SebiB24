@@ -9,7 +9,7 @@ I'm a passionate computer science student at UBB who loves coding and learning n
 ## 🛠 Tech Stack
 - 💻 Languages: Python, C, C++, C#, Java, Assembly, SQL, HTML, CSS, JS, TS
 - 🔙 Backend: Spring Boot
-- 🌐 Frontend: Angular
+- 🌐 Frontend: Angular, React
 - 🗄️ Databases: SQLite, MySQL, postgreSQL
 - 🧪 Testing: Playwright
 - 🎮 GameEngines: Godot
